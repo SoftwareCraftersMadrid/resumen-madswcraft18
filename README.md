@@ -7,6 +7,8 @@
 * [Equipos Autogestionados](equipos-autogestionados/equipos-autogestionados.md)
 * [Guardar tu ego en el cajón](guardar-tu-ego-en-el-cajon/guardar-tu-ego-en-el-cajon.md)
 * [Refactoring en Ruby](refactoring-ruby/refactoring-ruby.md)
+* [Kafka Streams y Testing](kafka-streams-testing/kafka-streams-testing.md)
+* [Event Storming](event-storming/event-storming.md)
 
 ## Contribuir
 
