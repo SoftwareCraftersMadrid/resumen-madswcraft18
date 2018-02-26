@@ -1,0 +1,11 @@
+baseurl = "http://madswcraft.com/"
+publishDir = "docs"
+languageCode = "es"
+title = "Software Crafter Madrid Conference"
+theme = "hucore"
+
+[params]
+description = "Resumen de las sesiones del Open Space"
+keywords = []
+author = "Software Crafter Madrid"
+sharingicons = false
