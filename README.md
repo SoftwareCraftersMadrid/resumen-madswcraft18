@@ -9,6 +9,7 @@
 * [Refactoring en Ruby](refactoring-ruby/refactoring-ruby.md)
 * [Kafka Streams y Testing](kafka-streams-testing/kafka-streams-testing.md)
 * [Event Storming](event-storming/event-storming.md)
+* [Serverless Workshop](serverless-workshop/serverless-workshop.md)
 
 ## Contribuir
 
