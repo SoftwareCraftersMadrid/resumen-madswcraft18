@@ -25,3 +25,7 @@ Si tienes notas sobre una sesión que te gustaría compartir.
  |_imagen_2.jpg
 ```
 2. Actualizar el listado en este fichero si es necesario.
+
+## Feedback
+
+![feedback image](feedback.jpg)
