@@ -11,6 +11,8 @@
 * [Event Storming](event-storming/event-storming.md)
 * [Serverless Workshop](serverless-workshop/serverless-workshop.md)
 * [Women in tech](WomenInTech/session_notes.md) Notas extraídas del [repo original](https://github.com/SoftwareCraftersMadrid/WomenInTech)
+* [git branching](git-branching/git-branching.md)
+
 
 ## Contribuir
 
