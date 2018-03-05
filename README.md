@@ -12,6 +12,7 @@
 * [Serverless Workshop](serverless-workshop/serverless-workshop.md)
 * [Women in tech](WomenInTech/session_notes.md) Notas extraídas del [repo original](https://github.com/SoftwareCraftersMadrid/WomenInTech)
 * [git branching](git-branching/git-branching.md)
+* [Effects, co-effects and subscriptions in SPAs](effects-coeffects/effects-coeffects.md)
 
 
 ## Contribuir
