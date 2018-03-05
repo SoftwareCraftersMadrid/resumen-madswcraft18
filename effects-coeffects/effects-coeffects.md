@@ -1,6 +1,7 @@
 # Effects, co-effects and subscriptions in SPAs (and ClojureScript)
 
-Ponente: [Manuel Rivero](https://twitter/trikitrok).
+Ponente: [Manuel Rivero](https://twitter/trikitrok)
+Slides: [Effects y co-effects](https://drive.google.com/file/d/1VtVziPtOvI68AQiMcq5nq2YGO1YI_x4D/view)
 
 Podríamos definir *side-effect* como aquello que una función hace al *mundo* exterior. De la misma forma,
 podríamos definir *side-cause* como aquello que el mundo hace a mi función (datos que necesita mi función
@@ -19,7 +20,4 @@ a las funciones que renderizan la vista.
 Similar a las funciones de [ReactiveX](/blog/2017/12/12/programacion-reactiva-javascript/) que proporciona funciones que
 puedes ir encadenando.
 
-Juraría que Manuel recomendó una charla, con un título parecido a *Arquitecturas front unidireccionales*, relacionada
-con Cycle.js, pero sólo soy capaz de encontrar el artículo
-[Unidirectional user interface architectures](https://staltz.com/unidirectional-user-interface-architectures.html),
-de André Staltz.
+Manuel recomendó una charla,  [Unidirectional data flow architectures](https://vimeo.com/168652278). Ha costado un poco dar con ella, pero por el camino, apareció un artículo que parece estar bastante relacionado: [Unidirectional user interface architectures](https://staltz.com/unidirectional-user-interface-architectures.html), tanto la charla como el artículo son de André Staltz.
